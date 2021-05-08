@@ -4,7 +4,7 @@ class Rew < Formula
   desc "Keep your Brewfile up-to-date"
   homepage "https://github.com/AlexPl292/rew"
   url "https://github.com/AlexPl292/rew/releases/download/v0.1.0/rew.zip"
-  sha256 "5896d7b09562b2299f605b980dfdee617b76e2fbdcbae95dfd8335601447e808"
+  sha256 "c0d7d65fe61d5176b328cac6e2f18bfa195fbe6b3a3cf73e4b6895d5bea3d1e4"
   version "0.1.0"
 
   depends_on "python@3.9"
